@@ -1,7 +1,7 @@
 body {
   padding-left: 20%;
   padding-right: 20%;
-  background-image: url("pics/Best Websites For Pixel Art Inspiration.jpg");
+  background-image: url("Best Websites For Pixel Art Inspiration.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -141,4 +141,5 @@ body::before {
   margin: 2%;
   background-color: rgb(136, 173, 173);
   text-align: center;
+
 }
